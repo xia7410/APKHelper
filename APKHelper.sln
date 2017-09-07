@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APKHelper", "APKHelper\APKHelper.csproj", "{06CCFB29-BE3B-459D-A345-A39774C88EC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Iteedee.ApkReader", "Iteedee.ApkReader\Iteedee.ApkReader.csproj", "{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://harbour9354.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = APKHelper\\APKHelper.csproj
+		SccProjectName1 = APKHelper
+		SccLocalPath1 = APKHelper
+		SccProjectUniqueName2 = Iteedee.ApkReader\\Iteedee.ApkReader.csproj
+		SccProjectName2 = Iteedee.ApkReader
+		SccLocalPath2 = Iteedee.ApkReader
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06CCFB29-BE3B-459D-A345-A39774C88EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06CCFB29-BE3B-459D-A345-A39774C88EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06CCFB29-BE3B-459D-A345-A39774C88EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06CCFB29-BE3B-459D-A345-A39774C88EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D6AB4A1-1AE0-42B5-9C4C-151927E8308D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
