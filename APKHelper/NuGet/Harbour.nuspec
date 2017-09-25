@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>APKHelper</id>
+    <version>1.0.1</version>
+    <title>APKHelper</title>
+    <authors>Harbour</authors>
+    <owners>harbour</owners>
+    <licenseUrl>https://github.com/Harbour9354/APKHelper/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/Harbour9354/APKHelper</projectUrl>
+    <iconUrl>https://avatars1.githubusercontent.com/u/16264878?v=4</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      APKHelper library.
+
+      Requires:
+      - .NET Framework(>=4.0)
+    </description>
+    <copyright>Copyright 2016-2017</copyright>
+    <tags>Harbour APKHelper</tags>
+
+  </metadata>
+
+  <files>
+    <file src="..\bin\Release\APKHelper.dll" target="lib\net40" />
+    <file src="..\bin\Release\APKHelper.XML" target="lib\net40" />
+  </files>
+</package>
